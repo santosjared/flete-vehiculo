@@ -1,0 +1,30 @@
+body {
+	background: cyan;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+.form{
+	width: 80%;
+	border: 1px solid gray;
+	padding: 2%;
+	background-color: lavenderblush;
+	border-radius: 2%;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 18vh;
+    width: 100%;
+    padding: 10px;
+    float: left;
+	margin-top: auto;
+}
+header{
+	background-color: crimson;
+	text-align: center;
+	color: white;
+	height: 3.5rem;
+	padding-top: 1%;
+	margin-bottom: 1%;
+}
